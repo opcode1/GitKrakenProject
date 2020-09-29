@@ -1,32 +1,9 @@
-# Prerequisites
-*.d
+# exclude everything .jpg
+*.jpg
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# exclude ext folder
+/ext/*
 
-# Precompiled Headers
-*.gch
-*.pch
+# exclude all jpg in images folder
+/images/*.jpg
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
