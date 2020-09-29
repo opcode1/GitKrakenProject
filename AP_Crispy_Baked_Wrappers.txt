@@ -2,7 +2,7 @@ Crispy Baked Wrapper Appetizer
 
 Menu Class: Appetizers
 
-Recipe by P.G.
+Recipe by Peter Gunardi
 
 Description:
 Baked wonton wrappers filled with cheesy sausage.   This is perfect for parties.
@@ -40,6 +40,3 @@ Allergy Warning:
 1. Sausage
 2. Cheese
 3. Black Olives
-
-Download this recipe from www.visualvideotutorials.com
-
